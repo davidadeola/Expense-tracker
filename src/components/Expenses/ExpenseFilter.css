@@ -19,6 +19,6 @@
   .expense-filter select {
     font: inherit;
     padding: 0.5rem 3rem;
-    font-weight: italic;
+    font-weight: bold;
     border-radius: 6px;
   }
