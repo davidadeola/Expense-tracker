@@ -26,7 +26,7 @@ import NewExpense from './components/NewExpense/NewExpense';
     },
     {
       id: "e4",
-      title: "13 Pro Max",
+      title: "LG Ultra wide Desktop",
       amount: 1400,
       date: new Date(2019, 2, 7),
       currency: '$',
